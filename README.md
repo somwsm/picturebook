@@ -1,4 +1,4 @@
-# arrowdemo
+# ポケモン図鑑
 
 ## Project setup
 ```
